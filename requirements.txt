@@ -1,6 +1,0 @@
-streamlit
-numpy
-scipy
-torch
-plotly
-rdkit
