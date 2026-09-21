@@ -136,3 +136,8 @@ Python · NumPy · SciPy (`solve_ivp`) · RDKit (SMILES structural classificatio
 ## Author
 
 Anwesha Sarkar
+
+
+
+Check it out.
+https://compartmental-drug-delivery-simulation-model-dfjncruzq8pbxjs3k.streamlit.app/
